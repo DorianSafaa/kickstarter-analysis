@@ -12,7 +12,7 @@ To begin the analysis, we need to check the outcomes of other campaigns within t
 
 ### Analysis of Outcomes Based on Launch Date
 A line chart will be used to compare the results of different campaigns over time. We can see that May is the month that launched the most successful campaigns. In addition, we can see that the failed campaigns occurred primarily in January, June, July, and October. 
-![image_name](C:/Users/safaa/Desktop/DataClass/Crowdfunding Analysis/Resources/to/Theater_Outcome_vs_Launch.png).
+![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/66279829/153790369-1fa61af0-c455-4cc5-9413-72a8ced3fe63.png)
 
 ### Analysis of Outcomes Based on Goals
 A line chart representing the percentage of successful and failed campaigns based on their goals will be used to compare the outcomes of various campaigns. We can see in the chart below that the goal amount set for the campaign and the percentage of successful campaigns is negatively correlated. In other words, the fewer goals are set for a campaign, the more likely it is to be successful. However, this isn’t the case for most of the campaigns with goals between $35,000 and $45,000. There needs to be more analysis to figure out why this is the case.
